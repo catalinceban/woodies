@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+nav .navbar-brand {
+    font-family: 'Nunito';
+    text-transform: uppercase;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    letter-spacing: 0.25em;
+    color: #3E3F43;
+}
+
+nav #navbarNav .navbar-nav li {
+    margin-left: 35px;
+}
+
+nav #navbarNav .navbar-nav li .active {
+    font-style: normal;
+    font-weight: 800;
+    font-size: 16px;
+    line-height: 22px;
+    color: #DAA520;
+}
+
+nav #navbarNav .navbar-nav button {
+    text-transform: uppercase;
+    border: 1px solid #3E3F43;
+    border-radius: 8px;
+    padding: 9px 36px;
+    margin-left: 25px;
+}
